@@ -2,8 +2,8 @@
 
 A new Flutter project.
 
-![Screenshot](Screenshot_2022-09-08-18-16-51-184_com.example.demo.png)
-![Screenshot](Screenshot_2022-09-08-18-16-43-720_com.example.demo.png)
+![Screenshot](https://github.com/sanju1989/Flutter-BottomAppbar-TopAppBar/blob/b174d9a82db0d5c6edc8d2961372ebe857f6e389/Screenshot_2022-09-08-18-16-43-720_com.example.demo.jpg)
+![Screenshot](https://github.com/sanju1989/Flutter-BottomAppbar-TopAppBar/blob/b174d9a82db0d5c6edc8d2961372ebe857f6e389/Screenshot_2022-09-08-18-16-51-184_com.example.demo.jpg)
 ## Getting Started
 
 This project is a starting point for a Flutter application.
